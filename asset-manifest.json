@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cek-Masa-Kerja/static/css/main.35670dc8.css",
+    "main.js": "/Cek-Masa-Kerja/static/js/main.8ba33ebd.js",
+    "index.html": "/Cek-Masa-Kerja/index.html",
+    "main.35670dc8.css.map": "/Cek-Masa-Kerja/static/css/main.35670dc8.css.map",
+    "main.8ba33ebd.js.map": "/Cek-Masa-Kerja/static/js/main.8ba33ebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35670dc8.css",
+    "static/js/main.8ba33ebd.js"
+  ]
+}
